@@ -1,0 +1,9 @@
+QUESTION
+create  the given pattern 
+000000
+000000
+000000
+000000
+
+ANSWER
+https://ideone.com/ajWfWP
