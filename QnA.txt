@@ -1,4 +1,4 @@
-QUESTION
+QUESTION-1
 create  the given pattern 
 000000
 000000
@@ -8,7 +8,7 @@ create  the given pattern
 ANSWER
 https://ideone.com/ajWfWP
 ----------------------------------------------------------------------------------------------------------------------
-QUESTION
+QUESTION-2
 create the given pattern 
 0
 00
@@ -18,3 +18,21 @@ create the given pattern
 ANSWER
 https://ideone.com/5L3Qa9
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-3
+for n=3     
+pattern is 
+1
+2 2
+3 3 3
+for n=5
+pattern is 
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+now print for n=6!!
+
+ANSWER
+https://ideone.com/TVixHD
+---------------------------------------------------------------------------------------------------------------------
