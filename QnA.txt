@@ -107,3 +107,15 @@ Pattern for N = 5
 ANSWER
 https://ideone.com/JpQ5YN
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-10
+Print the following pattern for the given N number of rows.
+Pattern for N = 5. Note: N is always odd.
+  x
+ xxx
+xxxxx
+ xxx
+  x
+
+ANSWER
+https://ideone.com/vGqQA7
+----------------------------------------------------------------------------------------------------------------------
