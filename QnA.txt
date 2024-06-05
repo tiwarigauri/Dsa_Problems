@@ -125,3 +125,15 @@ https://practice.geeksforgeeks.org/problems/square-pattern-1662666141/1?utm_sour
 ANSWER
 https://ideone.com/pfFEV9
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-12
+Print the following pattern for the given N number of rows.
+Pattern for N = 5
+*****
+ *****
+  *****
+   *****
+    *****
+
+ANSWER
+https://ideone.com/aPaxkQ
+----------------------------------------------------------------------------------------------------------------------
