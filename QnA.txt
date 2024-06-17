@@ -244,6 +244,14 @@ Find the Sum of all even and odd numbers using an Array.
 ANSWER
 https://ideone.com/bPgDtA
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-23
+Find the sum of even index and odd index in an array
+
+ANSWER
+https://ideone.com/J8ZOza
+----------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
