@@ -250,6 +250,13 @@ Find the sum of even index and odd index in an array
 ANSWER
 https://ideone.com/J8ZOza
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-24
+Total Sum of all pairs using single array.
+
+ANSWER
+https://www.jdoodle.com/ia/148Y
+----------------------------------------------------------------------------------------------------------------------
+
 
 
 
