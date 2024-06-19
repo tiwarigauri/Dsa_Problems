@@ -256,10 +256,9 @@ Total Sum of all pairs using single array.
 ANSWER
 https://www.jdoodle.com/ia/148Y
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-25
+Total Sum of all pairs using two arrays.
 
-
-
-
-
-
-
+ANSWER
+https://ideone.com/GPksCS
+----------------------------------------------------------------------------------------------------------------------
