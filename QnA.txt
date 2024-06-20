@@ -262,3 +262,9 @@ Total Sum of all pairs using two arrays.
 ANSWER
 https://ideone.com/GPksCS
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-26
+Maximum pair sum from two arrays.
+
+ANSWER
+https://ideone.com/do0AVf
+----------------------------------------------------------------------------------------------------------------------
