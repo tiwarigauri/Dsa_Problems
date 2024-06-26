@@ -298,3 +298,9 @@ Reverse numbers sum between range
 ANSWER
 https://ideone.com/Yvm8Pd
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-32
+First and last index of a target element
+
+ANSWER
+https://ideone.com/DvUI8b
+----------------------------------------------------------------------------------------------------------------------
