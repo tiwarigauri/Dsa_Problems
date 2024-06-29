@@ -316,3 +316,9 @@ Intro to 2d matrix
 ANSWER
 https://www.jdoodle.com/ia/13fm
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-35
+Operation on Left_diognal and right diagonal of a matrix with repeating and without repeating elements.
+
+ANSWER
+https://ideone.com/6Ug5xu
+----------------------------------------------------------------------------------------------------------------------
