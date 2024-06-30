@@ -322,3 +322,9 @@ Operation on Left_diognal and right diagonal of a matrix with repeating and with
 ANSWER
 https://ideone.com/6Ug5xu
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-36
+Print the boundary elements of 2d matrix
+
+ANSWER
+https://ideone.com/dlQHKn
+----------------------------------------------------------------------------------------------------------------------
