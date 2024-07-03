@@ -340,3 +340,9 @@ Transpose of a matrix
 ANSWER
 https://ideone.com/gIn4Qs
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-39
+https://leetcode.com/contest/weekly-contest-318/problems/apply-operations-to-an-array/
+
+ANSWER
+https://ideone.com/rofZFV
+----------------------------------------------------------------------------------------------------------------------
