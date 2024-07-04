@@ -346,3 +346,9 @@ https://leetcode.com/contest/weekly-contest-318/problems/apply-operations-to-an-
 ANSWER
 https://ideone.com/rofZFV
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-40
+https://leetcode.com/contest/weekly-contest-316/problems/determine-if-two-events-have-conflict/
+
+ANSWER
+https://ideone.com/dk6XOA
+----------------------------------------------------------------------------------------------------------------------
