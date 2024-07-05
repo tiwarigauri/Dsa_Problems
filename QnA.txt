@@ -352,3 +352,9 @@ https://leetcode.com/contest/weekly-contest-316/problems/determine-if-two-events
 ANSWER
 https://ideone.com/dk6XOA
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-41
+https://www.naukri.com/code360/problems/n-triangles_6573689?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems
+
+ANSWER
+https://ideone.com/vcEwKf
+----------------------------------------------------------------------------------------------------------------------
