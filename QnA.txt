@@ -358,3 +358,9 @@ https://www.naukri.com/code360/problems/n-triangles_6573689?utm_source=youtube&u
 ANSWER
 https://ideone.com/vcEwKf
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-42
+You are given an array of size “n” ; you are also given “Q” queries for each of the query please tell how many times a given number occurs in the array. 
+
+ANSWER
+https://ideone.com/YJ9MvK
+----------------------------------------------------------------------------------------------------------------------
