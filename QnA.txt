@@ -370,3 +370,9 @@ Find frequency of each number in the given array , but numbers can be as large a
 ANSWER
 https://ideone.com/F5TYFl
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-44
+Check if the given array is subset of another array without duplicates.
+
+ANSWER
+https://ideone.com/QX0Dr7
+----------------------------------------------------------------------------------------------------------------------
