@@ -406,3 +406,9 @@ We are given an Array of Numbers. We have to find and print any Number with Maxi
 ANSWER
 https://ideone.com/MNpPDw
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-50
+Check if there are any two Equal numbers in an array at a distance less than or equal to k
+
+ANSWER
+https://ideone.com/lHHBBd
+----------------------------------------------------------------------------------------------------------------------
