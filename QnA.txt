@@ -412,3 +412,9 @@ Check if there are any two Equal numbers in an array at a distance less than or 
 ANSWER
 https://ideone.com/lHHBBd
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-51
+Count all the (i,j) Pairs such that b[i] + b[j] == k and i<j.
+
+ANSWER
+https://ideone.com/TjlP43
+----------------------------------------------------------------------------------------------------------------------
