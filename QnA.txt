@@ -422,5 +422,11 @@ QUESTION-52
 Count All (i,j) pairs such that b[i] - b[j] == k and [i<j]. 
 
 ANSWER
-https://ideone.com/cNlc23
+https://ideone.com/unkYm1
+----------------------------------------------------------------------------------------------------------------------
+QUESTION-53
+Count all i,j pairs where i<j and abs(b[i]-b[j]) = k and [k>=0]. 
+
+ANSWER
+https://ideone.com/NLQpnj
 ----------------------------------------------------------------------------------------------------------------------
