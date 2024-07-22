@@ -443,7 +443,7 @@ ANSWER
 https://ideone.com/2En6Sm
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-56
-Find largest/smallest subarray with sum k in Given Array
+Find largest/smallest subarray with sum k in Given Array.
 
 ANSWER
 https://ideone.com/FKSM1i 
