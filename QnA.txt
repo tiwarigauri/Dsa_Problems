@@ -9,7 +9,7 @@ ANSWER
 https://ideone.com/ajWfWP
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-2
-create the given pattern 
+create the given pattern. 
 0
 00
 000
