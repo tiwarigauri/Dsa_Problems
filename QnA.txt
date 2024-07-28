@@ -37,7 +37,7 @@ ANSWER
 https://ideone.com/TVixHD
 ---------------------------------------------------------------------------------------------------------------------
 QUESTION-4
-n=6, print below
+n=6, print below-
 A
 BB
 CCC
@@ -60,7 +60,7 @@ ANSWER
 https://ideone.com/Eo3BFa
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-6
-for n=7, print below
+for n=7, print below-
 G
 F G
 E F G
