@@ -1,5 +1,5 @@
 QUESTION-1
-create  the given pattern 
+create  the given pattern.
 000000
 000000
 000000
@@ -9,7 +9,7 @@ ANSWER
 https://ideone.com/ajWfWP
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-2
-create the given pattern 
+create the given pattern. 
 0
 00
 000
@@ -20,24 +20,24 @@ https://ideone.com/5L3Qa9
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-3
 for n=3     
-pattern is 
+pattern is given below-
 1
 2 2
 3 3 3
 for n=5
-pattern is 
+pattern is given below-
 1
 2 2
 3 3 3
 4 4 4 4
 5 5 5 5 5
-now print for n=6!!
+now print for n=6
 
 ANSWER
 https://ideone.com/TVixHD
 ---------------------------------------------------------------------------------------------------------------------
 QUESTION-4
-n=6, print below
+n=6, print below-
 A
 BB
 CCC
@@ -60,7 +60,7 @@ ANSWER
 https://ideone.com/Eo3BFa
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-6
-for n=7, print below
+for n=7, print below-
 G
 F G
 E F G
@@ -109,7 +109,7 @@ https://ideone.com/JpQ5YN
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-10
 Print the following pattern for the given N number of rows.
-Pattern for N = 5. Note: N is always odd.
+Pattern for N = 5. Note: N is always odd-
   x
  xxx
 xxxxx
@@ -443,7 +443,7 @@ ANSWER
 https://ideone.com/2En6Sm
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-56
-Find largest/smallest subarray with sum k in Given Array
+Find largest/smallest subarray with sum k in Given Array.
 
 ANSWER
 https://ideone.com/yXWSxe
