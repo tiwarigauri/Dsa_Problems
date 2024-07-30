@@ -275,7 +275,7 @@ ANSWER
 https://ideone.com/7X9fVf
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-28
-Count of odd and even triplet sum
+Count of odd and even triplet sum.
 
 ANSWER
 https://ideone.com/yDDSE4
