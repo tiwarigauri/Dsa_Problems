@@ -448,3 +448,9 @@ Find largest/smallest subarray with sum k in Given Array.
 ANSWER
 https://ideone.com/yXWSxe
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-57
+Find count of shortest/largest subarrays with sum k in given array.
+
+ANSWER
+https://ideone.com/pz5bY2
+----------------------------------------------------------------------------------------------------------------------
