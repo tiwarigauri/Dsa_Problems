@@ -287,7 +287,7 @@ ANSWER
 https://ideone.com/SnGQwF
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-30
-Prime numbers between range
+Prime numbers between range.
 
 ANSWER
 https://ideone.com/yGlGFo
