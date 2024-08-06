@@ -305,7 +305,7 @@ ANSWER
 https://ideone.com/DvUI8b
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-33
-Count frequency of each element
+Count frequency of each element.
 
 ANSWER
 https://ideone.com/brA349
