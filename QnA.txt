@@ -329,7 +329,7 @@ ANSWER
 https://ideone.com/dlQHKn
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-37
-Print the elements of a matrix in z form
+Print the elements of a matrix in z form.
 
 ANSWER
 https://ideone.com/S4jZKP
