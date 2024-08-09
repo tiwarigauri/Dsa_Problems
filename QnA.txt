@@ -335,7 +335,7 @@ ANSWER
 https://ideone.com/S4jZKP
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-38
-Transpose of a matrix
+Transpose of a matrix.
 
 ANSWER
 https://ideone.com/gIn4Qs
