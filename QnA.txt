@@ -311,7 +311,7 @@ ANSWER
 https://ideone.com/brA349
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-34
-Intro to 2d matrix
+Intro to 2d matrix.
 
 ANSWER
 https://www.jdoodle.com/ia/13fm
