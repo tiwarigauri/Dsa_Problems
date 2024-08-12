@@ -383,7 +383,7 @@ ANSWER
 https://ideone.com/uVoiyb
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-46
-Minimum operations to make all elements equal in an array
+Minimum operations to make all elements equal in an array.
 
 ANSWER
 https://ideone.com/S4SgV4
