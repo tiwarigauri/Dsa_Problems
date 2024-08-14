@@ -1,5 +1,5 @@
 QUESTION-1
-create  the given pattern.
+create  the given pattern
 000000
 000000
 000000
