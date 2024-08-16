@@ -20,7 +20,7 @@ https://ideone.com/5L3Qa9
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-3
 for n=3     
-pattern is given below-
+pattern is given below
 1
 2 2
 3 3 3
