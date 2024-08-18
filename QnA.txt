@@ -84,7 +84,7 @@ ANSWER
 https://ideone.com/9gB1Le
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-8
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 5
 55555 
 4444
