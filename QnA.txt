@@ -96,7 +96,7 @@ ANSWER
 https://ideone.com/FqKKw6
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-9
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 5
     1
    232
