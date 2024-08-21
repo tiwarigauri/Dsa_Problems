@@ -1,5 +1,5 @@
 QUESTION-1
-create  the given pattern.
+create  the given pattern
 000000
 000000
 000000
@@ -9,7 +9,7 @@ ANSWER
 https://ideone.com/ajWfWP
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-2
-create the given pattern. 
+create the given pattern
 0
 00
 000
@@ -20,7 +20,7 @@ https://ideone.com/5L3Qa9
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-3
 for n=3     
-pattern is given below-
+pattern is given below
 1
 2 2
 3 3 3
@@ -73,7 +73,7 @@ ANSWER
 https://ideone.com/SxXqD1
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-7
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 4
    1 
   12
@@ -84,7 +84,7 @@ ANSWER
 https://ideone.com/9gB1Le
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-8
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 5
 55555 
 4444
@@ -96,7 +96,7 @@ ANSWER
 https://ideone.com/FqKKw6
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-9
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 5
     1
    232
@@ -108,7 +108,7 @@ ANSWER
 https://ideone.com/JpQ5YN
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-10
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 5. Note: N is always odd-
   x
  xxx
@@ -126,7 +126,7 @@ ANSWER
 https://ideone.com/pfFEV9
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-12
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 5
 *****
  *****
@@ -245,7 +245,7 @@ ANSWER
 https://ideone.com/bPgDtA
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-23
-Find the sum of even index and odd index in an array
+Find the sum of even index and odd index in an array.
 
 ANSWER
 https://ideone.com/J8ZOza
@@ -269,7 +269,7 @@ ANSWER
 https://ideone.com/do0AVf
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-27
-Triplet sum in a single array
+Triplet sum in a single array.
 
 ANSWER
 https://ideone.com/7X9fVf
@@ -287,31 +287,31 @@ ANSWER
 https://ideone.com/SnGQwF
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-30
-Prime numbers between range
+Prime numbers between range.
 
 ANSWER
 https://ideone.com/yGlGFo
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-31
-Reverse numbers sum between range
+Reverse numbers sum between range.
 
 ANSWER
 https://ideone.com/Yvm8Pd
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-32
-First and last index of a target element
+First and last index of a target element.
 
 ANSWER
 https://ideone.com/DvUI8b
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-33
-Count frequency of each element
+Count frequency of each element.
 
 ANSWER
 https://ideone.com/brA349
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-34
-Intro to 2d matrix
+Intro to 2d matrix.
 
 ANSWER
 https://www.jdoodle.com/ia/13fm
@@ -323,19 +323,19 @@ ANSWER
 https://ideone.com/6Ug5xu
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-36
-Print the boundary elements of 2d matrix
+Print the boundary elements of 2d matrix.
 
 ANSWER
 https://ideone.com/dlQHKn
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-37
-Print the elements of a matrix in z form
+Print the elements of a matrix in z form.
 
 ANSWER
 https://ideone.com/S4jZKP
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-38
-Transpose of a matrix
+Transpose of a matrix.
 
 ANSWER
 https://ideone.com/gIn4Qs
@@ -365,7 +365,7 @@ ANSWER
 https://ideone.com/YJ9MvK
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-43
-Find frequency of each number in the given array , but numbers can be as large as 1000000000
+Find frequency of each number in the given array , but numbers can be as large as 1000000000.
 
 ANSWER
 https://ideone.com/F5TYFl
@@ -383,7 +383,7 @@ ANSWER
 https://ideone.com/uVoiyb
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-46
-Minimum operations to make all elements equal in an array
+Minimum operations to make all elements equal in an array.
 
 ANSWER
 https://ideone.com/S4SgV4
@@ -407,7 +407,7 @@ ANSWER
 https://ideone.com/MNpPDw
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-50
-Check if there are any two Equal numbers in an array at a distance less than or equal to k
+Check if there are any two Equal numbers in an array at a distance less than or equal to k.
 
 ANSWER
 https://ideone.com/lHHBBd
