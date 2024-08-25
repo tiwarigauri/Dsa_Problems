@@ -163,7 +163,7 @@ ANSWER
 https://ideone.com/eY4U3D
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-15
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 6
 ******
 *   *
