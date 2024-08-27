@@ -189,7 +189,7 @@ ANSWER
 https://ideone.com/f6wcmz
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-17
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 6
 ***********
  *********     
