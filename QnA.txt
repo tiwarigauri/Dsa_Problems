@@ -202,7 +202,7 @@ ANSWER
 https://ideone.com/ZIvbej
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-18
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 6
      x
     x x
