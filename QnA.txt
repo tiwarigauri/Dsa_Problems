@@ -215,7 +215,7 @@ ANSWER
 https://ideone.com/MWmUNU
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-19
-Print the following pattern for the given N number of rows.
+Print the following pattern for the given N number of rows
 Pattern for N = 5
 1 3 5 7 9 
 3 5 7 9 1 
