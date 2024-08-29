@@ -227,7 +227,7 @@ ANSWER
 https://ideone.com/wu4arJ
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-20
-Create an integer array of size 5, take user input and then print it. 
+Create an integer array of size 5, take user input and then print it 
 
 ANSWER
 https://www.jdoodle.com/ia/PFx
