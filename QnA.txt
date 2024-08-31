@@ -233,7 +233,7 @@ ANSWER
 https://www.jdoodle.com/ia/PFx
 ----------------------------------------------------------------------------------------------------------------------
 QUESTION-21
-Find the Sum and multiplication of all number in an Array.
+Find the Sum and multiplication of all number in an Array
 
 ANSWER
 https://ideone.com/TqtEDh
