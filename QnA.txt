@@ -466,3 +466,9 @@ Given an array find two subarrays of maximum sum which are not intersecting.
 ANSWER
 https://ideone.com/cWWNHm
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-60
+https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/AUT1ZE
+----------------------------------------------------------------------------------------------------------------------
