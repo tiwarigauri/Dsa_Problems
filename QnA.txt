@@ -472,3 +472,9 @@ https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1?page=1&category=A
 ANSWER
 https://ideone.com/AUT1ZE
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-61
+https://www.geeksforgeeks.org/problems/reversal-algorithm5340/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+ANSWER
+
+https://ideone.com/gRqIU6
+----------------------------------------------------------------------------------------------------------------------
