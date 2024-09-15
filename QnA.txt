@@ -486,3 +486,9 @@ https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1?page=1&categ
 ANSWER
 https://ideone.com/o4iP7u
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-63
+https://www.geeksforgeeks.org/problems/swap-kth-elements5500/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/fNGM0S
+----------------------------------------------------------------------------------------------------------------------
