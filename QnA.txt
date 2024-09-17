@@ -498,3 +498,15 @@ https://www.geeksforgeeks.org/problems/display-longest-name0853/1?page=1&categor
 ANSWER
 https://ideone.com/w4CYw7
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-65
+https://www.geeksforgeeks.org/problems/quick-left-rotation3806/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/w4CYw7
+----------------------------------------------------------------------------------------------------------------------
+QUESTION-66
+https://www.geeksforgeeks.org/problems/quick-left-rotation3806/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/o9txSJ
+----------------------------------------------------------------------------------------------------------------------
