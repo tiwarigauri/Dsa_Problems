@@ -510,3 +510,9 @@ https://www.geeksforgeeks.org/problems/quick-left-rotation3806/1?page=1&category
 ANSWER
 https://ideone.com/o9txSJ
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-67
+https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/M8uU7S
+----------------------------------------------------------------------------------------------------------------------
