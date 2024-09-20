@@ -522,3 +522,9 @@ https://www.geeksforgeeks.org/problems/perfect-arrays4645/1?page=1&category=Arra
 ANSWER
 https://ideone.com/OjPtwf
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-69
+https://www.geeksforgeeks.org/problems/smaller-and-larger4005/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/ImBco2
+----------------------------------------------------------------------------------------------------------------------
