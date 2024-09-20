@@ -528,3 +528,9 @@ https://www.geeksforgeeks.org/problems/smaller-and-larger4005/1?page=1&category=
 ANSWER
 https://ideone.com/ImBco2
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-70
+https://www.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/96rtUf
+----------------------------------------------------------------------------------------------------------------------
