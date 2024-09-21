@@ -534,3 +534,9 @@ https://www.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1?page=1&cate
 ANSWER
 https://ideone.com/96rtUf
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-71
+https://www.geeksforgeeks.org/problems/elements-in-the-range2834/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/bOJzOx
+----------------------------------------------------------------------------------------------------------------------
