@@ -540,3 +540,9 @@ https://www.geeksforgeeks.org/problems/elements-in-the-range2834/1?page=1&catego
 ANSWER
 https://ideone.com/bOJzOx
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-72
+https://www.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/ht90QF
+----------------------------------------------------------------------------------------------------------------------
