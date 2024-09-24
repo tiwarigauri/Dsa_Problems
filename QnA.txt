@@ -546,3 +546,9 @@ https://www.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1?page=
 ANSWER
 https://ideone.com/ht90QF
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-73
+https://www.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/lzMSga
+----------------------------------------------------------------------------------------------------------------------
