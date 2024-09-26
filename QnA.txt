@@ -558,3 +558,9 @@ https://www.geeksforgeeks.org/problems/find-the-fine4353/1?page=1&category=Array
 ANSWER
 https://ideone.com/Ep3S2Z
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-75
+https://www.geeksforgeeks.org/problems/balanced-array07200720/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/EDnTRr
+----------------------------------------------------------------------------------------------------------------------
