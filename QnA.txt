@@ -564,3 +564,9 @@ https://www.geeksforgeeks.org/problems/balanced-array07200720/1?page=1&category=
 ANSWER
 https://ideone.com/EDnTRr
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-76
+https://www.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/THW6kA
+----------------------------------------------------------------------------------------------------------------------
