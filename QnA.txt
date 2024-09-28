@@ -570,3 +570,9 @@ https://www.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-min
 ANSWER
 https://ideone.com/THW6kA
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-77
+https://www.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/6yLhpy
+----------------------------------------------------------------------------------------------------------------------
