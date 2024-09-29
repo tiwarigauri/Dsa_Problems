@@ -582,3 +582,9 @@ https://www.geeksforgeeks.org/problems/fighting-the-darkness3949/1?page=1&catego
 ANSWER
 https://ideone.com/G5FzCM
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-79
+https://www.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/czpsXg
+----------------------------------------------------------------------------------------------------------------------
