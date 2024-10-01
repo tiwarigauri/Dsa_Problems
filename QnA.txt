@@ -594,3 +594,9 @@ https://www.geeksforgeeks.org/problems/find-unique-element2632/1?page=1&category
 ANSWER
 https://ideone.com/eIVWI6
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-81
+https://www.geeksforgeeks.org/problems/minimum-product-of-k-integers2553/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/9OYeeV
+----------------------------------------------------------------------------------------------------------------------
