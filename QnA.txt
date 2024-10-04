@@ -606,3 +606,9 @@ https://www.geeksforgeeks.org/problems/type-of-array4605/1?page=1&category=Array
 ANSWER
 https://ideone.com/tPimKR
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-83
+https://www.geeksforgeeks.org/problems/count-pair-sum5956/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/EAH3jx
+----------------------------------------------------------------------------------------------------------------------
