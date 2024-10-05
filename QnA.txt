@@ -612,3 +612,9 @@ https://www.geeksforgeeks.org/problems/count-pair-sum5956/1?page=1&category=Arra
 ANSWER
 https://ideone.com/EAH3jx
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-84
+https://www.geeksforgeeks.org/problems/positive-and-negative-elements4613/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/h6hv5e
+----------------------------------------------------------------------------------------------------------------------
