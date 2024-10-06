@@ -618,3 +618,9 @@ https://www.geeksforgeeks.org/problems/positive-and-negative-elements4613/1?page
 ANSWER
 https://ideone.com/h6hv5e
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-85
+https://www.geeksforgeeks.org/problems/absolute-difference-11156/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/No66WE
+----------------------------------------------------------------------------------------------------------------------
