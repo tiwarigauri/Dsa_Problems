@@ -624,3 +624,9 @@ https://www.geeksforgeeks.org/problems/absolute-difference-11156/1?page=1&catego
 ANSWER
 https://ideone.com/No66WE
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-86
+https://www.geeksforgeeks.org/problems/sum-of-distinct-elements4801/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/i1KBBs
+----------------------------------------------------------------------------------------------------------------------
