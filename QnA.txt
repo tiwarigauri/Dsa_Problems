@@ -642,3 +642,9 @@ https://www.geeksforgeeks.org/problems/the-problem-of-identical-arrays3229/1?pag
 ANSWER
 https://ideone.com/0c0crf
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-89
+https://www.geeksforgeeks.org/problems/check-arithmetic-progression1842/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/uEl1fD
+----------------------------------------------------------------------------------------------------------------------
