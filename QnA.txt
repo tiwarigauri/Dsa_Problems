@@ -648,3 +648,9 @@ https://www.geeksforgeeks.org/problems/check-arithmetic-progression1842/1?page=1
 ANSWER
 https://ideone.com/uEl1fD
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-90
+https://www.geeksforgeeks.org/problems/mega-sale1431/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/3UcOCE
+----------------------------------------------------------------------------------------------------------------------
