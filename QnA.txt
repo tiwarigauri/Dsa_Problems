@@ -654,3 +654,9 @@ https://www.geeksforgeeks.org/problems/mega-sale1431/1?page=1&category=Arrays&di
 ANSWER
 https://ideone.com/3UcOCE
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-91
+https://www.geeksforgeeks.org/problems/sum-array-puzzle/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/uffmTv
+----------------------------------------------------------------------------------------------------------------------
