@@ -660,3 +660,9 @@ https://www.geeksforgeeks.org/problems/sum-array-puzzle/1?page=1&category=Arrays
 ANSWER
 https://ideone.com/uffmTv
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-92
+https://www.geeksforgeeks.org/problems/triplet-family/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/ClxAjm
+----------------------------------------------------------------------------------------------------------------------
