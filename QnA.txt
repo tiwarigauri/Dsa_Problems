@@ -672,3 +672,8 @@ https://www.geeksforgeeks.org/problems/make-a-distinct-digit-array2007/1?page=1&
 ANSWER
 https://ideone.com/PNy8Fj
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-94
+https://www.geeksforgeeks.org/problems/maximum-triplet-sum-in-array0129/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/6F7jw3
