@@ -690,3 +690,9 @@ https://www.geeksforgeeks.org/problems/last-duplicate-element-in-a-sorted-array5
 ANSWER
 https://ideone.com/3iLREa
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-97
+https://www.geeksforgeeks.org/problems/jays-apples2724/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/5iCRzv
+----------------------------------------------------------------------------------------------------------------------
