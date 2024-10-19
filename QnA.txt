@@ -696,3 +696,9 @@ https://www.geeksforgeeks.org/problems/jays-apples2724/1?page=1&category=Arrays&
 ANSWER
 https://ideone.com/5iCRzv
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-98
+https://www.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/n3eVrq
+----------------------------------------------------------------------------------------------------------------------
