@@ -702,3 +702,9 @@ https://www.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1?pa
 ANSWER
 https://ideone.com/n3eVrq
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-99
+https://www.geeksforgeeks.org/problems/smallest-number-repeating-k-times3239/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/sNIMUO
+----------------------------------------------------------------------------------------------------------------------
