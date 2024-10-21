@@ -708,3 +708,9 @@ https://www.geeksforgeeks.org/problems/smallest-number-repeating-k-times3239/1?p
 ANSWER
 https://ideone.com/sNIMUO
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-100
+https://www.geeksforgeeks.org/problems/average-count-array2215/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/V2GND9
+----------------------------------------------------------------------------------------------------------------------
