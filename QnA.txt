@@ -714,3 +714,9 @@ https://www.geeksforgeeks.org/problems/average-count-array2215/1?page=1&category
 ANSWER
 https://ideone.com/V2GND9
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-101
+https://www.geeksforgeeks.org/problems/merge-and-sort5821/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/OBgZu5
+----------------------------------------------------------------------------------------------------------------------
