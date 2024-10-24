@@ -726,3 +726,9 @@ https://www.geeksforgeeks.org/problems/rearranging-array1648/1?page=1&category=A
 ANSWER
 https://ideone.com/ptz9aU
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-103
+https://www.geeksforgeeks.org/problems/reducing-walls4443/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/lyoNgu
+----------------------------------------------------------------------------------------------------------------------
