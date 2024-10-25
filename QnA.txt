@@ -732,3 +732,9 @@ https://www.geeksforgeeks.org/problems/reducing-walls4443/1?page=1&category=Arra
 ANSWER
 https://ideone.com/lyoNgu
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-104
+https://www.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-half-in-descending1714/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/An8oCw
+----------------------------------------------------------------------------------------------------------------------
