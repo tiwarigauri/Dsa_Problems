@@ -738,3 +738,9 @@ https://www.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-h
 ANSWER
 https://ideone.com/An8oCw
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-105
+https://www.geeksforgeeks.org/problems/minimize-sum-of-alternate-product2033/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/PvYSQg
+----------------------------------------------------------------------------------------------------------------------
