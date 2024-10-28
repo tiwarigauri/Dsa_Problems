@@ -744,3 +744,15 @@ https://www.geeksforgeeks.org/problems/minimize-sum-of-alternate-product2033/1?p
 ANSWER
 https://ideone.com/PvYSQg
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-106
+https://www.geeksforgeeks.org/problems/largest-product/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/RDNRDj
+----------------------------------------------------------------------------------------------------------------------
+QUESTION-107
+https://www.geeksforgeeks.org/problems/sandwiched-vowels5158/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/Obz7KB
+----------------------------------------------------------------------------------------------------------------------
