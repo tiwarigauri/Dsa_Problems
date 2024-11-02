@@ -756,3 +756,9 @@ https://www.geeksforgeeks.org/problems/sandwiched-vowels5158/1?page=1&category=A
 ANSWER
 https://ideone.com/Obz7KB
 ----------------------------------------------------------------------------------------------------------------------
+QUESTION-108
+https://www.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions
+
+ANSWER
+https://ideone.com/5Wly2I
+----------------------------------------------------------------------------------------------------------------------
